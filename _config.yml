@@ -1,7 +1,6 @@
 theme: jekyll-theme-leap-day
 title: Intel Stacks
 email: stacks-support@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  We've put together Clear Linux* OS  based reference stacks to allow developers to quickly get up and running on Clear Linux OS with images tailored, optimized, and tested together for specific use cases.
+description: stacks!
 twitter_username: intelstacks
 github_username:  intelstacks
