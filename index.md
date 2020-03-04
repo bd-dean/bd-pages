@@ -1,19 +1,26 @@
-## Deep Learning Reference Stack (DLRS)
+### About Stacks
 
-### About
+## Media Reference Stack
+<img src="https://clearlinux.org/sites/default/files/Media_stack_%20%28003%29_1.png" width="400" height="300" />
 
-The Deep Learning Reference Stack, is an integrated, highly-performant open source stack optimized for Intel® Xeon® Scalable platforms. 
-
-<img src="https://clearlinux.org/sites/default/files/single_2.png" width="400" height="300" />
-
-This open source community release is part of an effort to ensure AI developers have easy access to all features and functionality of Intel platforms.To offer more flexibility, there are multiple versions of the Deep Learning Reference Stack:
-
-* [Tensorflow 1.15 with Intel® Deep Neural Networks Library (Intel® DNNL) primitives, AVX-512 Deep Learning Boost and OpenVINO™ - Deep Learning Deployment Toolkit v2019_R3 (OMP)](https://hub.docker.com/r/clearlinux/stacks-dlrs-mkl)
-* [Tensorflow 2.0 with Intel® Deep Neural Networks Library (Intel® DNNL) primitives, AVX-512 Deep Learning Boost and OpenVINO™ - Deep Learning Deployment Toolkit v2019_R3 (TBB)](https://hub.docker.com/r/clearlinux/stacks-dlrs_2-mkl)
-* [TensorFlow with Eigen optimized for Intel Architecture](https://hub.docker.com/r/clearlinux/stacks-dlrs-oss)
-* [PyTorch DLRS Docker image with Intel® Math Kernel Library and Intel® Deep Neural Networks Library (Intel® DNNL)](https://hub.docker.com/r/clearlinux/stacks-pytorch-mkl)
-* [PyTorch DLRS Docker image with Eigen and OpenBLAS](https://hub.docker.com/r/clearlinux/stacks-pytorch-oss)
-* [Deep Learning Compiler with TVM and Intel® Math Kernel Library](https://hub.docker.com/r/clearlinux/stacks-ml-compiler)
+Designed to accelerate offline and live media processing, analytics, and inference recommendations for real-world use cases such as smart city applications, immersive media enhancement, video surveillance, and product placement.
 
 
-Please see the folders in this level about the variants and how to build and use them.
+## Database Reference Stack
+<img src="https://clearlinux.org/sites/default/files/Landing_s20.png" width="400" height="300" />
+
+This stack provides flexibility to accommodate larger capacity deployments of database applications, reduced hardware and operational costs, while maintaining required throughput and latency metrics.
+
+
+## Data Analytics Reference Stack
+<img src="https://clearlinux.org/sites/default/files/DA_RS-01_0.png" width="400" height="300" />
+
+The ready-to-use stack is containerized software that integrates industry-leading components and giving you a powerful way to store and process large amounts of data using a distributed processing framework.
+
+
+## Deep Learning Reference Stack
+<img src="https://clearlinux.org/sites/default/files/DLRS_TensorFlow_multi.png" width="400" height="300" />
+
+This integrated, highly-performant open source stack is highly-tuned and built for cloud native environments, so you can quickly prototype by reducing complexity associated with integrating multiple software components, while still giving you the flexibility to customize your solutions.
+
+[Learn More](dlrs.md)
